@@ -66,6 +66,10 @@ L'exécutable `KerberosScanner.exe` sera créé dans le même répertoire.
 - --
 
 
+# 🚀 Lister SPNs du domaine
+
+# 🚀 Vérifier événements Kerberos
+
 ## Événements surveillés
 
 | Event ID | Description |
@@ -76,10 +80,6 @@ L'exécutable `KerberosScanner.exe` sera créé dans le même répertoire.
 
 - --
 
-
-# 🚀 Lister SPNs du domaine
-
-# 🚀 Vérifier événements Kerberos
 
 ## Détection d'anomalies
 
@@ -166,6 +166,14 @@ Pour formations ou missions d'audit Kerberos, contactez-nous.
 
 MIT License - Voir fichier `LICENSE.txt` à la racine du dépôt.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
