@@ -77,6 +77,10 @@ L'exécutable `KerberosScanner.exe` sera créé dans le même répertoire.
 - --
 
 
+# 🚀 Lister SPNs du domaine
+
+# 🚀 Vérifier événements Kerberos
+
 ## Détection d'anomalies
 
 L'outil calcule un **score** pour chaque SPN :
@@ -92,10 +96,6 @@ Les scores élevés peuvent indiquer :
 
 - --
 
-
-# 🚀 Lister SPNs du domaine
-
-# 🚀 Vérifier événements Kerberos
 
 ## Environnement LAB-CONTROLLED
 
@@ -166,6 +166,14 @@ Pour formations ou missions d'audit Kerberos, contactez-nous.
 
 MIT License - Voir fichier `LICENSE.txt` à la racine du dépôt.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 ---
 
