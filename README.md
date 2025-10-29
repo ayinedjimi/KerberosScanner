@@ -33,6 +33,10 @@ https://www.ayinedjimi-consultants.fr
 - --
 
 
+# 🚀 Lister SPNs du domaine
+
+# 🚀 Vérifier événements Kerberos
+
 ## Compilation
 
 Ouvrez **x64 Native Tools Command Prompt for VS** :
@@ -46,10 +50,6 @@ L'exécutable `KerberosScanner.exe` sera créé dans le même répertoire.
 
 - --
 
-
-# 🚀 Lister SPNs du domaine
-
-# 🚀 Vérifier événements Kerberos
 
 ## 🚀 Utilisation
 
@@ -166,6 +166,14 @@ Pour formations ou missions d'audit Kerberos, contactez-nous.
 
 MIT License - Voir fichier `LICENSE.txt` à la racine du dépôt.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
